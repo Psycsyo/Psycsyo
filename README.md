@@ -1,5 +1,5 @@
 Стек:
-C++17, MS Visual Studio, Git, CMake, SFML
+C++17, MS Visual Studio, Git, CMake
 
 **Контакты для связи:**
 - Telegram: @Psycsyo
